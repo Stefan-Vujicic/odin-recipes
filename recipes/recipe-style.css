@@ -1,0 +1,21 @@
+p{
+    color: blue;
+}
+h1{
+    background-color: orange;
+}
+
+#lasagna{
+    background-color: red;
+}
+#pancake{
+    background-color: beige;
+}
+#pepper-steak{
+    background-color: brown;
+}
+.heading{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
